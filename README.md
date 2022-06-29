@@ -1,5 +1,8 @@
 # Advent.Guard
 
+## Quick Links
+- [Attachments](Attachments/attachments.hub.md)
+
 ## What are you making?
 
 The Advent Guard is a slag term used for the wave of machines sent ahead of human arrival to planet RS-17b otherwise knows as Atlas, with heavy lore/single player implications.
