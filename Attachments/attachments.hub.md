@@ -10,7 +10,7 @@ Attachments generally fall under one of these types:
 
 **Launchers** 
 
-Launchers are usually front-facing slots that fire various types of missiles. This could be homing, rapid fire or even high angle rockts to get around barriers.
+Launchers are usually front-facing slots that fire various types of missiles. This could be homing, rapid fire or even high angle rockets to get around barriers.
 
 **Cannons**
 
