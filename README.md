@@ -27,10 +27,10 @@ This repo and wiki will serve as the public facing documentation for the project
 Keep tabs on the Dev Stream over at [CarbyneGames.com](https://carbynegames.com) and help us bring this to life!
 
 Please follow our other socials to help support and keep tabs on the project!
-[Twitter: twitter.com/CarbyneGames](https://twitter.com/CarbyneGames)
-[TikTok: tiktok.com/@carbyne.games](https://tiktok.com/@carbyne.games)
-[Insta: instagram.com/carbyne.games](https://instagram.com/carbyne.games)
-[Discord: discord.gg/6skRnvGxfV](https://discord.gg/6skRnvGxfV)
-[Patreon: patreon.com/carbynegames](https://patreon.com/carbynegames)
-[Linktree: linktr.ee/CarbyneGames](https://linktr.ee/CarbyneGames)
-[Web: carbynegames.com](https://carbynegames.com)
+-[Twitter: twitter.com/CarbyneGames](https://twitter.com/CarbyneGames)
+-[TikTok: tiktok.com/@carbyne.games](https://tiktok.com/@carbyne.games)
+-[Insta: instagram.com/carbyne.games](https://instagram.com/carbyne.games)
+-[Discord: discord.gg/6skRnvGxfV](https://discord.gg/6skRnvGxfV)
+-[Patreon: patreon.com/carbynegames](https://patreon.com/carbynegames)
+-[Linktree: linktr.ee/CarbyneGames](https://linktr.ee/CarbyneGames)
+-[Web: carbynegames.com](https://carbynegames.com)
