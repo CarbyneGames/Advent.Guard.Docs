@@ -41,7 +41,7 @@ Utility attachments are also internal with no physically shown attachment. These
 Chips are internal upgrades for the exoskeletons also with with no physically shown attachment at run-time. These can upgrade speed, firing rate, damage amplifiers.. anything really.
 
 
-These attachments are fitted into large mechanical exoskeletons which have varying types of slots depending on the exo chassis. Each attachment the player crafts or loots in the world has a compatible slot type(s) that will let the user know where they can insert the attachment on the exoskeleton. The slot sizes and types are:
+These attachments are fitted into large mechanical exoskeletons which have varying types of slots depending on the exo chassis. Each attachment the player crafts or loots in the world has a compatible slot type(s) that will let the user know where they can insert the attachment on the exoskeleton. Smaller exoskeletons will support smaller sized slots while larger and heavier exoskeletons will be capable of handling the larger slot types. The slot sizes and types are:
 
 ![Slot Size Chart](../Media/Images/SlotSizeChart.png)
 
