@@ -1,6 +1,8 @@
 # Advent.Guard
 
-## Attachments Main
+[Back to Hub](../README.md)
+
+## How Attachments work in Advent Guard
 
 In Advent Guard each exoskeleton can be retrofitted with an assortment of Attachments so the player can completely set up their loadouts to their playstyle. 
 
